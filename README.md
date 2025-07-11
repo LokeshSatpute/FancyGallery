@@ -32,9 +32,7 @@
 
 ## 📽️ Demo Video
 
-[![Watch the Demo](images/fancygallery-thumbnail.png)](https://drive.google.com/file/d/1aodCkiGX209BDtAJPo8eYmGG449c3ZKp/view?usp=sharing)
-
-*Click the image above to watch the video on Google Drive.*
+You can [**click here to watch the FancyGallery demo video**](https://drive.google.com/file/d/1aodCkiGX209BDtAJPo8eYmGG449c3ZKp/view?usp=sharing).
 
 
 ---

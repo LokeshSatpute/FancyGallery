@@ -56,3 +56,49 @@ To build and run the project locally:
 1. **Clone the repository**
    ```bash
    git clone https://github.com/yourusername/FancyGallery.git
+
+Open in Android Studio
+
+Recommended version: Android Studio Giraffe | 2022.3.1 Patch 2
+
+Install SDK Tools
+
+Ensure Android SDK Platform-Tools v34.0.5 are installed.
+
+Sync Gradle
+
+Run on emulator or device
+
+✅ Note:
+
+You will need a free Flickr account to obtain an API key.
+
+Internet permission is enabled in AndroidManifest.xml.
+
+🗂️ Project Overview
+This project was completed as part of a mobile development course. It was developed in phases:
+
+Phase 1: Bottom navigation and Flickr API integration.
+
+Phase 2: Gallery grid with caching and WebView for photo pages.
+
+Phase 3: Map view with interactive markers and image overlays.
+
+For details on implementation steps, refer to project documentation or the source code.
+
+
+
+📝 License
+This project is licensed under the MIT License.
+
+🙌 Acknowledgments
+Big Nerd Ranch Guide (BNRG) — inspiration for some components
+
+OSMDroid — open-source mapping library
+
+Flickr — for providing API access to image data
+
+Android Developers — documentation and best practices
+
+
+

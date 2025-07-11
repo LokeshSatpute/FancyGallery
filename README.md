@@ -54,11 +54,11 @@ You can [**click here to watch the FancyGallery demo video**](https://drive.goog
 
 | Gallery View | Image Viewer |
 |---|---|
-| ![Gallery Grid](./Home.png) | ![Image Viewer](./OpenImg.png) |
+| ![Gallery Grid](.images/Home.png) | ![Image Viewer](.images/OpenImg.png) |
 
 | Map View | Navigation Drawer |
 |---|---|
-| ![Map View](./Map.png) | ![Options Menu](./Options.png) |
+| ![Map View](.images/Map.png) | ![Options Menu](.images/Options.png) |
 
 ✅ *Note: These images are for reference only. Functionality requires a valid Flickr API key and internet connectivity.*
 

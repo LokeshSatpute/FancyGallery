@@ -49,6 +49,21 @@ You can [**click here to watch the FancyGallery demo video**](https://drive.goog
 
 ---
 
+
+## 🖼️ Screenshots
+
+| Gallery View | Image Viewer |
+|---|---|
+| ![Gallery Grid](./Home.png) | ![Image Viewer](./OpenImg.png) |
+
+| Map View | Navigation Drawer |
+|---|---|
+| ![Map View](./Map.png) | ![Options Menu](./Options.png) |
+
+✅ *Note: These images are for reference only. Functionality requires a valid Flickr API key and internet connectivity.*
+
+---
+
 ## 🚀 Getting Started
 
 To build and run the project locally:
